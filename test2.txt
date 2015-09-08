@@ -1,1 +1,3 @@
 Let's make some more text files
+
+*Here we edit the file through EC2 command line*
